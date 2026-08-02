@@ -28,17 +28,15 @@ A modern, responsive website developed for a primary school to provide an engagi
 
 ## 📸 Preview
 
-### Home Page
-![Home Page](screenshots/home.png)
+<p align="center">
+  <img src="screenshots/home.png" width="45%">
+  <img src="screenshots/about.png" width="45%">
+</p>
 
-### About Page
-![About Page](screenshots/about.png)
-
-### Admissions
-![Admissions](screenshots/admissions.png)
-
-### Contact
-![Contact](screenshots/contact.png)
+<p align="center">
+  <img src="screenshots/admissions.png" width="45%">
+  <img src="screenshots/contact.png" width="45%">
+</p>
 
 ## Source Code
 
